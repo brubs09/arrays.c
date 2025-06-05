@@ -10,7 +10,7 @@ int main() {
         {"Aluno 2", "Pt: 90", "Mat: 60"} 
     };
 
-    printf("Digite o numero do aluno que queira ver as notas...\n);
+    printf("Digite o numero do aluno que queira ver as notas...\n");
     printf("Para o aluno 0, digite 0 \n");
     printf("Para o aluno 1, digite 1 \n");
     printf("Para o aluno 2, digite 2 \n");
